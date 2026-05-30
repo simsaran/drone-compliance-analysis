@@ -1,0 +1,12 @@
+{
+  "total_requirements": 15,
+  "total_operator_profiles": 3,
+  "total_compliance_gaps": 9,
+  "immediate_gaps": 6,
+  "critical_risks": 4,
+  "high_risks": 3,
+  "max_combined_penalty": 88000,
+  "worst_gap": "GAP-008",
+  "worst_gap_description": "BVLOS operations without SFOC by the drone delivery operator",
+  "regulatory_changes_tracked": 6
+}
