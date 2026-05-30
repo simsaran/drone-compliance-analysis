@@ -13,7 +13,7 @@ A regulatory affairs and compliance analysis project covering Transport Canada's
 
 ## Live app
 
-[Launch the Compliance Checker and Analysis Dashboard](your-streamlit-link-here)
+[Launch the Compliance Checker and Analysis Dashboard](https://drone-compliance-analysis--2026.streamlit.app/)
 
 ---
 
